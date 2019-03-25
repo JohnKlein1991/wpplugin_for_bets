@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin_for_bets\n"
+"POT-Creation-Date: 2019-03-25 11:50+0300\n"
+"PO-Revision-Date: 2019-03-25 11:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: theme\n"
+
+#: wp_post_types.php:7
+msgid "Ставки"
+msgstr "Betts"
+
+#: wp_post_types.php:8
+msgid "Cтавка"
+msgstr "Bet"
+
+#: wp_post_types.php:9
+msgid "Добавь ставку"
+msgstr "ADD bet"
+
+#: wp_post_types.php:10
+msgid "Добавить новую Ставку"
+msgstr "ADD New Bet"
+
+#: wp_post_types.php:11
+msgid "Редактирование Ставки"
+msgstr "Edit Bet"
+
+#: wp_post_types.php:12
+msgid "Новая Ставка"
+msgstr "New Bet"
+
+#: wp_post_types.php:13
+msgid "Смотреть Ставку"
+msgstr "View Bet"
+
+#: wp_post_types.php:14
+msgid "Искать Ставку"
+msgstr "Search Bet"
+
+#: wp_post_types.php:15
+msgid "Ставка не найдена"
+msgstr "Bet not found"
+
+#: wp_post_types.php:16
+msgid "Ставка не найдена в корзине"
+msgstr "Bet not found in cart"
+
+#: wp_post_types.php:18
+msgid "Меню ставок"
+msgstr "Bet menu"
+
+#: wp_roles.php:32
+msgid "Каппер"
+msgstr "Capper"
+
+#: wp_roles.php:60
+msgid "Модератор"
+msgstr "Moderator"
+
+#: wp_taxonomies.php:8
+msgid "Типы ставок"
+msgstr "Type"
+
+#: wp_taxonomies.php:9 wp_taxonomies.php:18
+msgid "Тип ставки"
+msgstr "Bet Type"
+
+#: wp_taxonomies.php:10
+msgid "Искать тип ставки"
+msgstr "Search Bet"
+
+#: wp_taxonomies.php:11
+msgid "Все типы"
+msgstr "All types"
+
+#: wp_taxonomies.php:12
+msgid "Parent Genre"
+msgstr "Parent Genre"
+
+#: wp_taxonomies.php:13
+msgid "Parent Genre:"
+msgstr "Parent Genre:"
+
+#: wp_taxonomies.php:14
+msgid "Редактировать тип"
+msgstr "Edit type"
+
+#: wp_taxonomies.php:15
+msgid "Изменить тип"
+msgstr "Change type"
+
+#: wp_taxonomies.php:16
+msgid "Добавить новый тип"
+msgstr "Add"
+
+#: wp_taxonomies.php:17
+msgid "Новое имя типа"
+msgstr "New name"
+
+#: wp_taxonomies.php:36 wp_taxonomies.php:48
+msgid "Статусы ставок"
+msgstr "Status"
+
+#: wp_taxonomies.php:37
+msgid "Статус ставки"
+msgstr "Status of the bet "
+
+#: wp_taxonomies.php:38
+msgid "Искать статус ставки"
+msgstr "Search the status"
+
+#: wp_taxonomies.php:39
+msgid "Popular Writers"
+msgstr "Popular Writers"
+
+#: wp_taxonomies.php:40
+msgid "Все статусы"
+msgstr "All statuses"
+
+#: wp_taxonomies.php:41
+msgid "Редактировать статус"
+msgstr "Edit status"
+
+#: wp_taxonomies.php:42
+msgid "Изменить статус"
+msgstr "Change status"
+
+#: wp_taxonomies.php:43
+msgid "Добавить новый статус"
+msgstr "Add"
+
+#: wp_taxonomies.php:44
+msgid "Новое имя статуса"
+msgstr "New name"
+
+#: wp_taxonomies.php:45
+msgid "Separate writers with commas"
+msgstr "Separate writers with commas"
+
+#: wp_taxonomies.php:46
+msgid "Добавить или удалить статус"
+msgstr "Add or remove"
+
+#: wp_taxonomies.php:47
+msgid "Choose from the most used writers"
+msgstr "Choose from the most used writers"
+
+#: wp_terms.php:6
+msgid "Одиночное событие"
+msgstr "Single event"
+
+#: wp_terms.php:10
+msgid "Несколько событий"
+msgstr "Express"
+
+#: wp_terms.php:14
+msgid "Выигрыш"
+msgstr "Win"
+
+#: wp_terms.php:18
+msgid "Проигрыш"
+msgstr "Lose"
+
+#: wp_terms.php:22
+msgid "Возврат"
+msgstr "Equal"
+
+#: wp_terms.php:26
+msgid "Активная"
+msgstr "Active"
+
+#: wpplugin.php:13
+msgid "Demo WordPress translation"
+msgstr "Demo WordPress translation"
+
+#: wpplugin.php:14
+msgid "Test plugin for learning how to create translations in WordPress"
+msgstr "Test plugin for learning how to create translations in WordPress"
